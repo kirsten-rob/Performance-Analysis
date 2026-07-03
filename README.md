@@ -6,6 +6,7 @@ Develop a python-based analysis tool to investigate physiological and performanc
 ## Skills:
 
 - Python
+- Panda
 - Data Analysis
 - Data Visualisation
 - Engineering Reporting
